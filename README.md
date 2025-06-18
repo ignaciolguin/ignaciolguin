@@ -23,8 +23,3 @@ You can find my portfolio, with example projects, in [this](https://github.com/i
 - OS & Admin: Linux (Ubuntu, Debian), Bash, VMs, AWS.
 - Design & Productivity: Photoshop, Krita, Blender, Office 365, OpenOffice.
 - Languages: Spanish (native), English (advanced), Japanese (beginner).
-
-## 👋🏻 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ignaciolguin)
-- Email: olguinignaciopedro@gmail.com
