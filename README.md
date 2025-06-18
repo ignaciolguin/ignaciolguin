@@ -17,8 +17,8 @@ You can find my portfolio, with example projects, in [this](https://github.com/i
 
 ## 🛠️ Keywords
 
-- Business Intelligence: Power BI, Qlik, SAP BusinessObjects, SAP Lumira.
-- Databases & Querying: SQL, Python (pandas, Jupyter), DAX.
+- Business Intelligence: Power BI, Qlik, SAP BusinessObjects, SAP Analytics Cloud.
+- Databases & Querying: SQL, Python (pandas, Jupyter), DAX, ABAP.
 - Web Tools: JavaScript, HTML/CSS, MS SharePoint, Moodle.
 - OS & Admin: Linux (Ubuntu, Debian), Bash, VMs, AWS.
 - Design & Productivity: Photoshop, Krita, Blender, Office 365, OpenOffice.
